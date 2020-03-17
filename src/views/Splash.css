@@ -1,0 +1,66 @@
+.mainSplash {
+  position:fixed;
+  height:100%;
+  width: 100%;
+  background-color: #e6e6e6;
+}
+
+.mainSplash .container {
+  max-width: 75%;
+  margin: auto;
+
+}
+
+.mainSplash p {
+  text-align: center;
+  margin-top: 8%;
+  margin-bottom: 5%;
+}
+
+.mainSplash .big {
+  font-size: 80px;
+}
+
+.mainSplash .small {
+  font-size: 36px;
+}
+
+.flowerimage {
+  height: auto;
+  width: 50%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  opacity: 0;
+}
+
+#transition3 {
+  opacity: 1;
+  transition: opacity 4s
+}
+
+.mainSplash .container button {
+  margin-top: 5%;
+  background-color: #3790d5;
+	outline: 0;
+	width: 100%;
+	display: inline-block;
+	color: white;
+	border-radius: 0;
+	padding: 5px 10px;
+	font-size: 18px;
+	line-height: 1.5;
+  cursor: pointer;
+}.mainSplash .container button:hover {
+	color: #e6e6e6;
+}.mainSplash .container button:active {
+	color: white;
+}
+
+.exmaplexlass {
+color: #A3A3A3;
+color: #3790d5;
+color: #e6e6e6;
+color: #F2F2F2;
+color: #4c647b;
+color: #f2ed48;
+}

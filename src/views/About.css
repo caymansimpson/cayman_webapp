@@ -1,0 +1,20 @@
+.about {
+  width: 70vw;
+  margin: auto;
+}
+
+.about h3 {
+  text-align: left;
+  margin-top: 7%
+}
+
+.about ul {
+  text-align: left;
+}
+
+.about p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-align: justify;
+  font-size: 1.2em;
+}
